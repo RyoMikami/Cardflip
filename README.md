@@ -29,15 +29,21 @@ By running the program, first, you can set session ID and participant ID.
 After the 3 practice round, the main round will start.
 In each round,  numbers written on the tail of the card is randomly distributed from Uniform distribution.
 When all rounds are finished, only one result is randomly picked up from the main rounds and the reward is shown.
-This reward recorded as Payoff_file.csv  in the current directory.
-Subjects all behavioral data is also recorded on /data folder.
+This reward recorded as /Payoff_file.csv  in the current directory.
+Subjects all behavioral data is also recorded on /data .
 
 main/condition_treatment.xlsx defines the following parameters of the round by each row.
+
 a : lower bound 
+
 b : Upper bound
+
 para1: exchange rate for point.
+
 Treat_s: search cost
+
 Treat_q: probability of success
+
 Fixed_fee: participation fee
 
 ## References
