@@ -47,7 +47,7 @@ Treat_q: probability of success
 Fixed_fee: participation fee
 
 ## References
-Consumer Search and Stock-out: A Laboratory Experiment (2020)  Ryo Mikami and Y. KITTAKA
+Consumer Search and Stock-out: A Laboratory Experiment (2020) Y. KITTAKA and Ryo Mikami
 ISER Discussion Paper No. 1104.
 https://www.iser.osaka-u.ac.jp/library/dp/2020/DP1104.pdf
 
